@@ -1,4 +1,4 @@
 # Practice_Demo
 Practice the basic commands.
 <br>
-Author - Suveeksha Shashi
+Author - Suveeksha Shashi(Practice)
